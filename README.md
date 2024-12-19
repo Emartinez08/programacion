@@ -57,8 +57,6 @@ Este repositorio contiene los trabajos, proyectos y actividades realizadas duran
 
 - **Lenguajes de programación:** Python, Julia, C.
 - **Herramientas:** OpenCV, GTK.
-- **Metodologías:** COBIT 2019, ISO 22301.
-
 ## Propósito
 
 Este repositorio sirve como evidencia del aprendizaje y desarrollo de habilidades técnicas durante la maestría. Está diseñado para documentar el progreso y compartir conocimientos con la comunidad académica y profesional.
